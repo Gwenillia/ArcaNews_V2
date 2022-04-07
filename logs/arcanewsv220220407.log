@@ -1,0 +1,24 @@
+2022-04-07 23:38:45.416 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:38:45.479 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:38:47.781 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:38:47.783 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:38:47.786 +02:00 [INF] Gateway: Connected
+2022-04-07 23:38:48.288 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:38:48.291 +02:00 [INF] Present on [3] servers
+2022-04-07 23:38:48.292 +02:00 [INF] Gateway: Ready
+2022-04-07 23:39:22.374 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:39:22.434 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:39:24.369 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:39:24.371 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:39:24.373 +02:00 [INF] Gateway: Connected
+2022-04-07 23:39:24.877 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:39:24.881 +02:00 [INF] Present on [3] servers
+2022-04-07 23:39:24.882 +02:00 [INF] Gateway: Ready
+2022-04-07 23:39:43.887 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:39:43.937 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:39:45.620 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:39:45.622 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:39:45.623 +02:00 [INF] Gateway: Connected
+2022-04-07 23:39:46.124 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:39:46.128 +02:00 [INF] Present on [3] servers
+2022-04-07 23:39:46.130 +02:00 [INF] Gateway: Ready

@@ -1,0 +1,108 @@
+2022-04-07 22:58:22.541 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 22:58:22.611 +02:00 [INF] Gateway: Connecting
+2022-04-07 22:58:27.456 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 22:58:27.458 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 22:58:27.459 +02:00 [INF] Gateway: Connected
+2022-04-07 22:58:27.967 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 22:58:27.972 +02:00 [INF] Present on [3] servers
+2022-04-07 22:58:27.973 +02:00 [INF] Gateway: Ready
+2022-04-07 22:59:09.460 +02:00 [WRN] Gateway: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Char.Parse(String s)
+   at ArcaNews_V2.Services.CommandHandler.MessageReceivedAsync(SocketMessage rawMessage) in C:\Users\GwenTripet-Costet\Documents\Projects\ArcaNewsV2\ArcaNews_V2\Services\CommandHandler.cs:line 60
+   at Discord.EventExtensions.InvokeAsync[T](AsyncEvent`1 eventHandler, T arg)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+2022-04-07 22:59:17.588 +02:00 [WRN] Gateway: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Char.Parse(String s)
+   at ArcaNews_V2.Services.CommandHandler.MessageReceivedAsync(SocketMessage rawMessage) in C:\Users\GwenTripet-Costet\Documents\Projects\ArcaNewsV2\ArcaNews_V2\Services\CommandHandler.cs:line 60
+   at Discord.EventExtensions.InvokeAsync[T](AsyncEvent`1 eventHandler, T arg)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+2022-04-07 22:59:28.729 +02:00 [WRN] Gateway: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Char.Parse(String s)
+   at ArcaNews_V2.Services.CommandHandler.MessageReceivedAsync(SocketMessage rawMessage) in C:\Users\GwenTripet-Costet\Documents\Projects\ArcaNewsV2\ArcaNews_V2\Services\CommandHandler.cs:line 60
+   at Discord.EventExtensions.InvokeAsync[T](AsyncEvent`1 eventHandler, T arg)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+2022-04-07 23:02:20.838 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:02:20.907 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:08:03.215 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:08:03.282 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:08:05.395 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:08:05.397 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:08:05.398 +02:00 [INF] Gateway: Connected
+2022-04-07 23:08:05.914 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:08:05.918 +02:00 [INF] Present on [3] servers
+2022-04-07 23:08:05.919 +02:00 [INF] Gateway: Ready
+2022-04-07 23:11:14.089 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:11:14.160 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:11:16.415 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:11:16.417 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:11:16.420 +02:00 [INF] Gateway: Connected
+2022-04-07 23:11:16.927 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:11:16.929 +02:00 [INF] Present on [3] servers
+2022-04-07 23:11:16.930 +02:00 [INF] Gateway: Ready
+2022-04-07 23:11:32.002 +02:00 [WRN] Gateway: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Char.Parse(String s)
+   at ArcaNews_V2.Services.CommandHandler.MessageReceivedAsync(SocketMessage rawMessage) in C:\Users\GwenTripet-Costet\Documents\Projects\ArcaNewsV2\ArcaNews_V2\Services\CommandHandler.cs:line 60
+   at Discord.EventExtensions.InvokeAsync[T](AsyncEvent`1 eventHandler, T arg)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+2022-04-07 23:12:41.280 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:12:41.345 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:12:43.470 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:12:43.472 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:12:43.474 +02:00 [INF] Gateway: Connected
+2022-04-07 23:12:43.967 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:12:43.970 +02:00 [INF] Present on [3] servers
+2022-04-07 23:12:43.972 +02:00 [INF] Gateway: Ready
+2022-04-07 23:16:56.681 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:16:56.755 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:16:59.037 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:16:59.039 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:16:59.043 +02:00 [INF] Gateway: Connected
+2022-04-07 23:16:59.551 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:16:59.555 +02:00 [INF] Present on [3] servers
+2022-04-07 23:16:59.557 +02:00 [INF] Gateway: Ready
+2022-04-07 23:17:11.899 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:17:11.983 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:17:14.354 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:17:14.355 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:17:14.356 +02:00 [INF] Gateway: Connected
+2022-04-07 23:17:14.869 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:17:14.871 +02:00 [INF] Present on [3] servers
+2022-04-07 23:17:14.872 +02:00 [INF] Gateway: Ready
+2022-04-07 23:17:21.230 +02:00 [WRN] Gateway: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Char.Parse(String s)
+   at ArcaNews_V2.Services.CommandHandler.MessageReceivedAsync(SocketMessage rawMessage) in C:\Users\GwenTripet-Costet\Documents\Projects\ArcaNewsV2\ArcaNews_V2\Services\CommandHandler.cs:line 60
+   at Discord.EventExtensions.InvokeAsync[T](AsyncEvent`1 eventHandler, T arg)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+2022-04-07 23:17:38.580 +02:00 [WRN] Gateway: System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Char.Parse(String s)
+   at ArcaNews_V2.Services.CommandHandler.MessageReceivedAsync(SocketMessage rawMessage) in C:\Users\GwenTripet-Costet\Documents\Projects\ArcaNewsV2\ArcaNews_V2\Services\CommandHandler.cs:line 60
+   at Discord.EventExtensions.InvokeAsync[T](AsyncEvent`1 eventHandler, T arg)
+   at Discord.WebSocket.DiscordSocketClient.TimeoutWrap(String name, Func`1 action)
+2022-04-07 23:18:54.284 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:18:54.352 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:18:56.247 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:18:56.249 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:18:56.251 +02:00 [INF] Gateway: Connected
+2022-04-07 23:18:56.769 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:18:56.773 +02:00 [INF] Present on [3] servers
+2022-04-07 23:18:56.774 +02:00 [INF] Gateway: Ready
+2022-04-07 23:19:01.025 +02:00 [INF] Command [hello] executed for [Gwenillia] <-> [Serveur de Gwenilliaazazd]
+2022-04-07 23:20:02.475 +02:00 [ERR] Command failed to execute for [Gwenillia] <-> [Unknown command.] !
+2022-04-07 23:25:10.398 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:25:10.465 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:25:16.112 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:25:16.114 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:25:16.117 +02:00 [INF] Gateway: Connected
+2022-04-07 23:25:16.625 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:25:16.629 +02:00 [INF] Present on [3] servers
+2022-04-07 23:25:16.629 +02:00 [INF] Gateway: Ready
+2022-04-07 23:25:18.222 +02:00 [INF] Command [hello] executed for [Gwenillia] <-> [Serveur de Gwenilliaazazd]
+2022-04-07 23:25:20.241 +02:00 [ERR] Command failed to execute for [Gwenillia] <-> [Unknown command.] !
+2022-04-07 23:39:58.630 +02:00 [INF] Discord: Discord.Net v3.5.0 (API v9)
+2022-04-07 23:39:58.699 +02:00 [INF] Gateway: Connecting
+2022-04-07 23:40:00.696 +02:00 [WRN] Gateway: You're using the GuildScheduledEvents gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:40:00.697 +02:00 [WRN] Gateway: You're using the GuildInvites gateway intent without listening to any events related to that intent, consider removing the intent from your config.
+2022-04-07 23:40:00.699 +02:00 [INF] Gateway: Connected
+2022-04-07 23:40:01.199 +02:00 [INF] Connected as -> [⁦ArcaNews⁩#3616]
+2022-04-07 23:40:01.201 +02:00 [INF] Present on [3] servers
+2022-04-07 23:40:01.203 +02:00 [INF] Gateway: Ready
